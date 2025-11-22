@@ -58,7 +58,7 @@ This project includes the following analyses and charts:
 * 2–5 years
 * 5–10 years
 * 10+ years
-* 
+  
 ✔ 6. Attrition by Tenure GroupShows which group leaves the organization most.
 
 
