@@ -1,0 +1,501 @@
+EmployeeID,Age,Gender,Department,JobRole,Salary,Tenure,Attrition
+2001,53,Female,HR,HR Specialist,49016,8,No
+2002,30,Male,Sales,Sales Representative,61847,11,No
+2003,23,Female,HR,HR Manager,53963,14,No
+2004,53,Female,Finance,Analyst,69388,10,No
+2005,31,Male,Sales,Sales Representative,46508,8,Yes
+2006,26,Female,Operations,Shift Lead,48953,2,No
+2007,30,Male,IT,Data Analyst,68894,7,Yes
+2008,38,Male,IT,Data Analyst,65768,3,Yes
+2009,34,Male,Sales,Sales Executive,116479,11,Yes
+2010,46,Female,IT,Support Engineer,112101,13,No
+2011,43,Female,IT,Support Engineer,57887,14,Yes
+2012,53,Female,Operations,Operations Executive,47301,7,Yes
+2013,45,Female,Sales,Sales Representative,119023,5,Yes
+2014,44,Female,IT,Software Engineer,82918,2,No
+2015,22,Female,Finance,Senior Accountant,56199,0,Yes
+2016,24,Female,Finance,Senior Accountant,101411,9,No
+2017,23,Female,HR,HR Specialist,44551,1,No
+2018,52,Female,Finance,Analyst,60736,1,Yes
+2019,52,Male,HR,HR Manager,77024,14,No
+2020,53,Female,HR,HR Manager,105864,13,Yes
+2021,30,Female,HR,HR Executive,106083,7,No
+2022,34,Female,HR,HR Specialist,69348,11,Yes
+2023,53,Female,IT,Data Analyst,72747,1,No
+2024,44,Female,Operations,Shift Lead,49513,3,No
+2025,28,Male,Sales,Sales Representative,77211,14,Yes
+2026,42,Male,IT,Data Analyst,61721,9,Yes
+2027,35,Male,Sales,Sales Representative,62802,2,Yes
+2028,29,Female,Sales,Sales Representative,102670,5,Yes
+2029,40,Male,Sales,Sales Executive,52872,2,Yes
+2030,35,Female,Sales,Sales Executive,48731,13,Yes
+2031,51,Female,Sales,Sales Executive,79358,6,Yes
+2032,41,Female,Sales,Sales Representative,71391,2,No
+2033,27,Male,Finance,Senior Accountant,48995,1,No
+2034,26,Male,Operations,Operations Executive,104907,8,No
+2035,26,Female,Finance,Senior Accountant,63229,2,Yes
+2036,24,Female,IT,Data Analyst,114631,12,Yes
+2037,54,Female,IT,Software Engineer,46621,14,No
+2038,28,Female,Operations,Operations Executive,48073,9,Yes
+2039,55,Male,Finance,Accountant,108170,11,Yes
+2040,38,Male,IT,Software Engineer,38572,12,Yes
+2041,54,Female,Operations,Operations Manager,64835,0,Yes
+2042,35,Female,Sales,Sales Representative,66680,15,No
+2043,44,Male,IT,Data Analyst,114706,2,No
+2044,30,Male,IT,Support Engineer,103118,0,Yes
+2045,55,Female,Finance,Analyst,118443,12,No
+2046,42,Female,Sales,Sales Representative,105154,13,No
+2047,44,Female,Sales,Sales Representative,88454,4,No
+2048,53,Male,IT,Data Analyst,41525,5,Yes
+2049,34,Male,HR,HR Manager,103523,1,No
+2050,50,Male,Operations,Shift Lead,65940,7,No
+2051,36,Male,Sales,Sales Representative,78609,15,No
+2052,49,Male,Sales,Sales Executive,65167,7,Yes
+2053,34,Male,IT,Support Engineer,48466,7,Yes
+2054,34,Female,HR,HR Manager,38817,2,Yes
+2055,35,Male,Sales,Sales Representative,79673,7,Yes
+2056,25,Female,IT,Data Analyst,109212,5,Yes
+2057,37,Male,IT,Data Analyst,89093,6,Yes
+2058,47,Female,Finance,Analyst,97540,8,Yes
+2059,40,Male,IT,Software Engineer,74907,5,No
+2060,26,Male,IT,Software Engineer,66185,4,No
+2061,52,Male,IT,Data Analyst,43471,10,Yes
+2062,42,Female,Sales,Sales Representative,70597,12,No
+2063,54,Female,Operations,Operations Executive,35494,12,Yes
+2064,40,Male,Sales,Sales Representative,64248,2,Yes
+2065,27,Female,Sales,Sales Representative,43903,9,Yes
+2066,40,Female,Operations,Operations Manager,106024,9,Yes
+2067,38,Female,IT,Data Analyst,81114,12,Yes
+2068,34,Male,Sales,Sales Executive,66244,1,Yes
+2069,55,Female,Finance,Accountant,65780,2,No
+2070,42,Female,IT,Support Engineer,86712,12,No
+2071,37,Male,Finance,Senior Accountant,44623,7,No
+2072,42,Male,Finance,Senior Accountant,52761,0,No
+2073,38,Female,Sales,Sales Executive,80314,8,No
+2074,44,Male,Sales,Sales Representative,79997,0,No
+2075,51,Male,IT,Software Engineer,93023,10,No
+2076,25,Female,Operations,Operations Executive,64758,12,Yes
+2077,30,Male,Sales,Sales Representative,66859,1,Yes
+2078,54,Male,Operations,Operations Manager,111276,1,No
+2079,50,Male,Sales,Sales Executive,62388,2,No
+2080,50,Female,HR,HR Specialist,77483,12,Yes
+2081,39,Male,Sales,Sales Representative,88422,14,Yes
+2082,37,Female,Operations,Shift Lead,48037,15,No
+2083,49,Male,Finance,Accountant,77191,9,No
+2084,23,Male,IT,Support Engineer,117250,9,Yes
+2085,41,Female,Sales,Sales Executive,71674,10,Yes
+2086,37,Male,HR,HR Manager,67266,5,Yes
+2087,25,Female,Finance,Analyst,110949,9,No
+2088,48,Female,HR,HR Specialist,47543,11,Yes
+2089,47,Male,Finance,Accountant,104335,11,No
+2090,37,Male,IT,Software Engineer,48209,8,Yes
+2091,45,Male,IT,Data Analyst,109747,14,No
+2092,42,Female,HR,HR Manager,55396,8,Yes
+2093,53,Male,Finance,Senior Accountant,43128,12,No
+2094,42,Female,Finance,Accountant,55062,12,Yes
+2095,32,Male,Sales,Sales Executive,107464,15,No
+2096,34,Male,IT,Software Engineer,116122,6,Yes
+2097,38,Male,HR,HR Manager,117066,1,No
+2098,52,Male,IT,Software Engineer,51694,4,No
+2099,53,Male,IT,Support Engineer,97449,6,No
+2100,43,Male,IT,Support Engineer,71924,9,Yes
+2101,45,Female,HR,HR Manager,103653,7,Yes
+2102,35,Female,Finance,Senior Accountant,95884,11,No
+2103,31,Female,Finance,Analyst,118590,4,No
+2104,49,Male,Operations,Operations Manager,111016,14,No
+2105,46,Female,Sales,Sales Executive,78680,9,Yes
+2106,51,Female,Finance,Analyst,57800,1,No
+2107,54,Female,IT,Support Engineer,115779,6,Yes
+2108,28,Male,HR,HR Specialist,70921,11,No
+2109,52,Male,Finance,Senior Accountant,100821,7,No
+2110,30,Female,Operations,Shift Lead,77064,2,No
+2111,55,Female,Finance,Analyst,72653,11,Yes
+2112,33,Female,IT,Data Analyst,35204,15,Yes
+2113,54,Male,Sales,Sales Executive,75265,11,No
+2114,34,Male,HR,HR Executive,109084,6,Yes
+2115,25,Female,Operations,Operations Manager,86856,2,No
+2116,49,Female,IT,Software Engineer,97530,6,Yes
+2117,52,Male,Sales,Sales Representative,41616,12,No
+2118,36,Female,HR,HR Manager,55877,5,Yes
+2119,43,Female,HR,HR Executive,70414,5,No
+2120,52,Female,IT,Data Analyst,66533,15,Yes
+2121,35,Female,Finance,Analyst,74963,12,No
+2122,31,Male,HR,HR Specialist,89097,0,Yes
+2123,54,Male,IT,Data Analyst,72110,3,Yes
+2124,32,Female,Sales,Sales Representative,68666,14,Yes
+2125,37,Female,HR,HR Specialist,114972,7,Yes
+2126,25,Male,Finance,Senior Accountant,88600,2,No
+2127,33,Female,Finance,Accountant,55331,15,Yes
+2128,33,Male,IT,Support Engineer,64156,6,No
+2129,33,Male,Sales,Sales Representative,106655,11,Yes
+2130,52,Male,Operations,Operations Manager,111462,2,No
+2131,29,Male,IT,Data Analyst,110494,13,Yes
+2132,47,Male,Operations,Operations Manager,85783,11,Yes
+2133,22,Male,Finance,Senior Accountant,90280,8,Yes
+2134,34,Female,Finance,Analyst,112209,13,No
+2135,39,Female,Operations,Operations Executive,94766,4,Yes
+2136,38,Female,HR,HR Specialist,104435,9,No
+2137,32,Female,HR,HR Specialist,103443,3,No
+2138,43,Male,Sales,Sales Executive,96860,15,Yes
+2139,38,Female,Sales,Sales Executive,95253,9,Yes
+2140,53,Female,IT,Data Analyst,43296,1,Yes
+2141,38,Male,Sales,Sales Representative,40604,14,No
+2142,24,Female,Operations,Operations Executive,36441,1,Yes
+2143,22,Female,HR,HR Manager,46851,14,Yes
+2144,55,Male,HR,HR Manager,57395,11,No
+2145,48,Male,Operations,Shift Lead,44145,4,No
+2146,39,Male,HR,HR Manager,60271,8,Yes
+2147,36,Male,Operations,Operations Executive,99112,10,Yes
+2148,31,Female,HR,HR Executive,60975,1,Yes
+2149,33,Female,Sales,Sales Executive,86768,9,No
+2150,45,Female,Operations,Operations Manager,48998,0,Yes
+2151,55,Female,Finance,Senior Accountant,78113,1,No
+2152,35,Female,Sales,Sales Representative,62189,10,No
+2153,47,Female,Finance,Accountant,96549,9,No
+2154,32,Female,IT,Data Analyst,41069,10,No
+2155,47,Male,Finance,Accountant,56798,8,No
+2156,41,Male,HR,HR Specialist,35496,12,No
+2157,49,Male,HR,HR Executive,69401,6,No
+2158,25,Male,HR,HR Executive,60593,10,Yes
+2159,40,Female,Sales,Sales Executive,91842,1,No
+2160,43,Male,Finance,Accountant,94454,13,Yes
+2161,32,Male,Operations,Operations Executive,104895,15,No
+2162,37,Male,IT,Software Engineer,69843,8,Yes
+2163,53,Male,Operations,Operations Manager,60102,5,No
+2164,42,Male,Finance,Accountant,84519,9,Yes
+2165,47,Male,Operations,Operations Executive,115411,3,No
+2166,54,Male,IT,Data Analyst,80737,0,Yes
+2167,47,Female,Sales,Sales Executive,55900,1,Yes
+2168,51,Male,IT,Data Analyst,50675,12,Yes
+2169,51,Female,Finance,Analyst,103586,15,Yes
+2170,36,Male,Sales,Sales Representative,41526,12,Yes
+2171,23,Male,IT,Data Analyst,89251,8,No
+2172,50,Female,Sales,Sales Representative,66993,7,No
+2173,36,Male,Operations,Shift Lead,56928,0,No
+2174,31,Female,IT,Software Engineer,100377,7,No
+2175,37,Female,IT,Support Engineer,35611,15,Yes
+2176,51,Female,Finance,Analyst,91525,4,No
+2177,47,Male,HR,HR Manager,80130,11,No
+2178,24,Male,IT,Data Analyst,89199,13,No
+2179,28,Female,Finance,Analyst,58177,8,No
+2180,45,Male,Operations,Shift Lead,108894,14,Yes
+2181,53,Female,Sales,Sales Executive,56523,3,Yes
+2182,42,Female,HR,HR Specialist,73713,12,No
+2183,31,Male,Finance,Accountant,54157,14,Yes
+2184,52,Male,Finance,Accountant,41873,6,Yes
+2185,29,Female,Sales,Sales Executive,89909,1,Yes
+2186,43,Male,Operations,Shift Lead,105477,0,Yes
+2187,36,Male,Sales,Sales Executive,59061,5,Yes
+2188,35,Male,Sales,Sales Executive,47561,7,Yes
+2189,48,Male,IT,Data Analyst,111720,8,No
+2190,39,Female,Finance,Senior Accountant,96557,12,No
+2191,35,Female,HR,HR Manager,63403,9,Yes
+2192,25,Female,IT,Data Analyst,70895,10,No
+2193,40,Female,Finance,Analyst,62009,10,Yes
+2194,39,Female,HR,HR Executive,106713,5,No
+2195,47,Female,Finance,Analyst,102305,0,Yes
+2196,26,Female,IT,Software Engineer,38270,8,No
+2197,55,Male,IT,Data Analyst,114356,7,Yes
+2198,50,Male,Sales,Sales Executive,66470,10,Yes
+2199,55,Male,Sales,Sales Executive,58673,1,Yes
+2200,42,Male,Operations,Shift Lead,97738,12,No
+2201,33,Female,Operations,Operations Executive,111593,2,Yes
+2202,55,Female,IT,Software Engineer,36097,13,No
+2203,55,Female,Operations,Shift Lead,35775,11,Yes
+2204,27,Male,Operations,Operations Executive,77612,1,Yes
+2205,31,Female,HR,HR Manager,55629,2,Yes
+2206,48,Male,IT,Software Engineer,77044,14,Yes
+2207,34,Female,HR,HR Specialist,115610,10,No
+2208,37,Female,Finance,Analyst,101473,8,Yes
+2209,43,Male,Operations,Shift Lead,101489,10,No
+2210,55,Female,Finance,Accountant,37230,2,Yes
+2211,54,Male,Operations,Shift Lead,115201,14,Yes
+2212,30,Female,Operations,Shift Lead,116219,3,Yes
+2213,47,Female,Operations,Shift Lead,75493,15,Yes
+2214,48,Male,Finance,Accountant,58346,0,Yes
+2215,51,Male,IT,Support Engineer,107270,13,Yes
+2216,47,Female,Sales,Sales Executive,104928,14,No
+2217,43,Female,Finance,Accountant,44312,3,Yes
+2218,49,Female,Operations,Shift Lead,103825,7,Yes
+2219,51,Male,Operations,Operations Executive,70822,4,Yes
+2220,40,Female,Finance,Analyst,107116,10,Yes
+2221,49,Female,Sales,Sales Representative,43613,1,No
+2222,52,Male,HR,HR Specialist,67904,4,No
+2223,51,Male,Finance,Analyst,99907,12,No
+2224,30,Male,Sales,Sales Executive,87468,6,No
+2225,49,Male,IT,Data Analyst,44697,10,Yes
+2226,46,Male,Sales,Sales Executive,88955,9,Yes
+2227,50,Female,HR,HR Executive,107235,0,Yes
+2228,42,Male,Operations,Operations Manager,75790,2,Yes
+2229,40,Female,Finance,Senior Accountant,48925,13,Yes
+2230,38,Male,Finance,Senior Accountant,77748,12,No
+2231,54,Female,HR,HR Specialist,42142,12,Yes
+2232,53,Female,Sales,Sales Executive,101946,8,No
+2233,52,Male,IT,Data Analyst,99252,14,No
+2234,39,Male,Sales,Sales Representative,119519,7,No
+2235,47,Female,HR,HR Manager,76576,0,No
+2236,37,Female,Sales,Sales Executive,64926,15,No
+2237,24,Male,Finance,Accountant,73674,10,Yes
+2238,30,Female,IT,Software Engineer,104745,5,No
+2239,52,Female,Sales,Sales Executive,49753,4,Yes
+2240,45,Female,Operations,Shift Lead,76450,3,Yes
+2241,42,Female,HR,HR Specialist,71667,8,No
+2242,42,Female,Operations,Shift Lead,49478,13,Yes
+2243,44,Female,Finance,Senior Accountant,85715,10,No
+2244,23,Female,Sales,Sales Executive,89111,8,No
+2245,39,Male,Finance,Analyst,93935,2,No
+2246,45,Female,Operations,Operations Manager,45723,15,Yes
+2247,51,Male,HR,HR Executive,44385,11,Yes
+2248,53,Male,HR,HR Executive,95230,8,Yes
+2249,45,Female,Sales,Sales Representative,102002,6,No
+2250,47,Male,Finance,Accountant,57056,6,No
+2251,49,Male,Sales,Sales Executive,112843,4,No
+2252,32,Female,Operations,Shift Lead,112662,1,Yes
+2253,38,Female,Sales,Sales Executive,119746,15,Yes
+2254,33,Female,IT,Software Engineer,52241,8,Yes
+2255,29,Female,Finance,Senior Accountant,90969,0,No
+2256,39,Male,Sales,Sales Executive,68639,13,Yes
+2257,26,Male,Operations,Operations Executive,64419,12,Yes
+2258,29,Male,Finance,Analyst,111663,9,No
+2259,53,Male,IT,Software Engineer,50790,8,Yes
+2260,43,Female,IT,Software Engineer,86548,11,No
+2261,54,Female,Finance,Senior Accountant,115903,14,Yes
+2262,51,Female,Operations,Shift Lead,52380,1,Yes
+2263,52,Male,Sales,Sales Executive,115440,15,No
+2264,28,Female,Operations,Operations Manager,39040,1,Yes
+2265,45,Male,IT,Software Engineer,103245,2,Yes
+2266,54,Female,Finance,Analyst,53496,13,No
+2267,47,Female,HR,HR Manager,85582,13,No
+2268,42,Female,Sales,Sales Executive,71587,15,Yes
+2269,24,Female,Finance,Analyst,108959,1,Yes
+2270,30,Female,Operations,Operations Executive,64669,9,No
+2271,26,Male,Sales,Sales Representative,102010,7,No
+2272,34,Male,Sales,Sales Executive,38171,2,Yes
+2273,28,Female,Sales,Sales Executive,61379,13,Yes
+2274,49,Male,HR,HR Specialist,49758,3,No
+2275,55,Male,Operations,Shift Lead,110970,0,No
+2276,37,Female,IT,Software Engineer,96617,10,No
+2277,35,Female,IT,Data Analyst,91194,10,No
+2278,39,Female,Finance,Senior Accountant,38923,7,No
+2279,35,Male,IT,Software Engineer,88548,11,Yes
+2280,39,Female,Finance,Senior Accountant,107220,0,No
+2281,44,Male,Finance,Analyst,93733,13,Yes
+2282,33,Male,Operations,Operations Executive,38378,5,No
+2283,38,Female,Operations,Shift Lead,43601,0,No
+2284,54,Female,Finance,Accountant,92003,15,Yes
+2285,35,Female,IT,Support Engineer,106751,0,Yes
+2286,35,Female,Operations,Shift Lead,64584,6,No
+2287,55,Female,Operations,Shift Lead,101938,14,Yes
+2288,33,Female,IT,Software Engineer,48092,13,No
+2289,50,Male,IT,Data Analyst,71290,12,No
+2290,40,Male,IT,Data Analyst,47369,4,Yes
+2291,22,Female,HR,HR Executive,110863,3,No
+2292,47,Male,HR,HR Executive,83253,8,No
+2293,31,Male,IT,Support Engineer,50106,10,No
+2294,50,Male,Sales,Sales Executive,117436,0,Yes
+2295,51,Female,HR,HR Executive,58011,3,Yes
+2296,48,Female,Sales,Sales Executive,118307,7,Yes
+2297,27,Male,Finance,Accountant,98948,11,No
+2298,39,Female,HR,HR Executive,118171,15,No
+2299,41,Male,IT,Data Analyst,51992,1,No
+2300,32,Male,HR,HR Specialist,113629,7,No
+2301,32,Female,Finance,Analyst,37334,8,Yes
+2302,55,Female,HR,HR Manager,79349,9,No
+2303,51,Male,Operations,Operations Executive,57966,4,Yes
+2304,27,Male,Sales,Sales Representative,69777,11,No
+2305,39,Female,IT,Support Engineer,42501,10,No
+2306,51,Female,Operations,Shift Lead,90075,7,No
+2307,25,Female,HR,HR Manager,46681,3,Yes
+2308,37,Male,Finance,Senior Accountant,86612,0,No
+2309,41,Female,Finance,Analyst,73571,6,No
+2310,49,Male,Sales,Sales Executive,96402,15,Yes
+2311,24,Male,HR,HR Executive,40338,8,Yes
+2312,54,Male,Operations,Operations Manager,77822,6,Yes
+2313,28,Female,IT,Data Analyst,48966,10,Yes
+2314,34,Male,Finance,Accountant,35507,7,No
+2315,22,Female,HR,HR Executive,67514,9,Yes
+2316,32,Female,HR,HR Executive,113083,8,No
+2317,43,Female,IT,Support Engineer,44571,13,No
+2318,39,Male,Operations,Operations Executive,104657,15,Yes
+2319,25,Male,HR,HR Executive,86146,2,Yes
+2320,47,Female,Sales,Sales Representative,46654,1,No
+2321,52,Male,IT,Data Analyst,57959,15,No
+2322,43,Male,HR,HR Manager,37389,14,Yes
+2323,24,Male,Finance,Senior Accountant,46323,11,Yes
+2324,33,Female,HR,HR Specialist,99576,11,No
+2325,30,Female,IT,Data Analyst,74827,5,No
+2326,50,Female,Operations,Operations Manager,84806,6,No
+2327,45,Male,IT,Data Analyst,55122,0,No
+2328,45,Female,IT,Support Engineer,69650,8,No
+2329,47,Female,Finance,Analyst,35988,15,No
+2330,44,Female,Finance,Accountant,47039,13,Yes
+2331,43,Female,IT,Data Analyst,94543,5,No
+2332,54,Female,Finance,Accountant,69715,13,No
+2333,53,Female,Operations,Operations Executive,39578,15,Yes
+2334,46,Male,Finance,Accountant,85861,12,Yes
+2335,42,Female,Sales,Sales Executive,117644,7,No
+2336,31,Male,Operations,Operations Manager,113665,8,No
+2337,24,Male,Operations,Operations Manager,95335,0,No
+2338,30,Male,Sales,Sales Representative,98393,14,No
+2339,36,Male,HR,HR Manager,76351,2,Yes
+2340,51,Female,IT,Support Engineer,76143,3,Yes
+2341,51,Male,Finance,Accountant,113451,8,Yes
+2342,52,Female,Sales,Sales Representative,73031,8,No
+2343,47,Female,HR,HR Manager,72013,3,Yes
+2344,22,Male,HR,HR Manager,48562,4,Yes
+2345,49,Male,Finance,Accountant,57041,14,No
+2346,52,Male,Operations,Shift Lead,66357,10,No
+2347,27,Female,IT,Software Engineer,41396,1,Yes
+2348,31,Male,Operations,Operations Manager,53602,10,Yes
+2349,49,Female,Finance,Accountant,81899,5,Yes
+2350,26,Male,Operations,Operations Executive,77964,10,Yes
+2351,31,Male,Sales,Sales Executive,109291,14,No
+2352,39,Male,Operations,Shift Lead,47640,6,No
+2353,23,Male,Sales,Sales Executive,52106,1,No
+2354,37,Female,Sales,Sales Representative,54283,10,No
+2355,39,Male,HR,HR Executive,36199,13,Yes
+2356,40,Female,HR,HR Specialist,83431,14,Yes
+2357,25,Male,Operations,Operations Executive,37633,4,Yes
+2358,28,Male,Finance,Senior Accountant,64661,14,No
+2359,51,Male,IT,Support Engineer,100917,9,Yes
+2360,42,Female,Sales,Sales Executive,104066,5,No
+2361,30,Female,Finance,Accountant,56276,6,Yes
+2362,47,Male,IT,Data Analyst,71417,11,No
+2363,52,Female,Operations,Operations Manager,106642,10,Yes
+2364,53,Male,HR,HR Executive,92890,15,No
+2365,22,Male,HR,HR Manager,38882,3,Yes
+2366,39,Male,Finance,Analyst,60884,2,Yes
+2367,37,Female,IT,Data Analyst,37092,7,No
+2368,42,Female,Finance,Senior Accountant,108712,4,Yes
+2369,26,Male,HR,HR Executive,74576,6,Yes
+2370,31,Female,Operations,Operations Executive,51501,12,Yes
+2371,33,Female,Operations,Operations Manager,74671,10,Yes
+2372,46,Female,Finance,Senior Accountant,55879,7,Yes
+2373,44,Male,Sales,Sales Executive,41024,5,No
+2374,44,Female,Finance,Accountant,61965,12,No
+2375,54,Male,Sales,Sales Representative,78866,14,Yes
+2376,39,Male,Operations,Operations Manager,45775,3,Yes
+2377,48,Female,HR,HR Specialist,108187,5,Yes
+2378,34,Female,Sales,Sales Executive,89330,12,Yes
+2379,46,Male,HR,HR Specialist,65367,12,Yes
+2380,43,Female,Finance,Analyst,65275,9,No
+2381,27,Male,Finance,Senior Accountant,47548,11,Yes
+2382,53,Female,Finance,Analyst,72004,8,No
+2383,49,Female,HR,HR Executive,82109,5,No
+2384,27,Male,Sales,Sales Executive,98791,9,Yes
+2385,30,Male,Sales,Sales Executive,74068,5,Yes
+2386,26,Female,Sales,Sales Executive,35176,3,No
+2387,28,Female,Operations,Shift Lead,51088,12,Yes
+2388,39,Male,Finance,Accountant,79666,15,Yes
+2389,37,Female,Finance,Analyst,107915,11,Yes
+2390,34,Male,IT,Support Engineer,88347,15,No
+2391,33,Female,IT,Software Engineer,59619,9,Yes
+2392,33,Male,Operations,Shift Lead,76132,5,Yes
+2393,36,Female,Finance,Accountant,118972,15,Yes
+2394,42,Female,HR,HR Specialist,114386,15,Yes
+2395,24,Male,Sales,Sales Executive,35889,9,No
+2396,27,Male,Finance,Senior Accountant,71305,8,No
+2397,30,Female,IT,Data Analyst,78225,8,No
+2398,27,Female,Sales,Sales Representative,101629,7,Yes
+2399,31,Male,Sales,Sales Representative,61092,3,Yes
+2400,52,Male,Sales,Sales Representative,83064,15,Yes
+2401,28,Female,HR,HR Specialist,79169,5,No
+2402,54,Female,IT,Data Analyst,80176,8,Yes
+2403,37,Female,Sales,Sales Executive,76724,9,No
+2404,34,Male,Finance,Analyst,95939,3,Yes
+2405,42,Female,Sales,Sales Representative,103210,3,No
+2406,27,Male,Sales,Sales Representative,36186,7,Yes
+2407,36,Female,Operations,Shift Lead,116988,1,No
+2408,46,Male,HR,HR Specialist,100167,0,No
+2409,36,Female,Operations,Operations Executive,46161,8,Yes
+2410,42,Female,Finance,Accountant,94951,13,Yes
+2411,27,Female,Sales,Sales Representative,76805,0,Yes
+2412,37,Female,Finance,Analyst,116363,12,No
+2413,42,Male,IT,Support Engineer,58546,7,No
+2414,30,Male,HR,HR Specialist,83744,3,Yes
+2415,55,Female,Finance,Accountant,111139,12,No
+2416,51,Female,HR,HR Specialist,40366,13,No
+2417,34,Female,IT,Support Engineer,83223,5,Yes
+2418,37,Male,HR,HR Specialist,114307,6,No
+2419,51,Female,HR,HR Manager,82340,14,Yes
+2420,52,Female,Finance,Accountant,53341,9,No
+2421,41,Male,HR,HR Executive,56387,15,No
+2422,39,Male,Finance,Accountant,47406,10,No
+2423,30,Male,HR,HR Executive,117451,12,Yes
+2424,46,Female,Operations,Shift Lead,66845,1,Yes
+2425,51,Female,Finance,Accountant,62478,10,Yes
+2426,31,Male,Operations,Operations Manager,43424,13,Yes
+2427,39,Female,IT,Data Analyst,82423,0,Yes
+2428,42,Male,IT,Support Engineer,119955,13,Yes
+2429,47,Male,Operations,Shift Lead,65799,2,No
+2430,43,Female,Sales,Sales Executive,53129,0,Yes
+2431,29,Male,Finance,Analyst,103151,7,No
+2432,29,Male,Finance,Senior Accountant,107652,15,No
+2433,45,Male,IT,Software Engineer,68624,7,No
+2434,50,Male,HR,HR Manager,112712,7,No
+2435,25,Male,Sales,Sales Executive,57512,8,Yes
+2436,38,Female,Finance,Accountant,37650,0,Yes
+2437,50,Male,Finance,Senior Accountant,38557,5,Yes
+2438,25,Female,IT,Software Engineer,78356,10,No
+2439,42,Female,IT,Software Engineer,83460,7,Yes
+2440,48,Female,Operations,Operations Executive,115399,3,Yes
+2441,36,Female,Operations,Shift Lead,76369,8,Yes
+2442,51,Male,Operations,Operations Manager,84886,3,No
+2443,23,Male,Finance,Senior Accountant,88401,11,Yes
+2444,43,Male,Sales,Sales Representative,96107,6,Yes
+2445,28,Male,HR,HR Specialist,51184,6,Yes
+2446,52,Male,IT,Support Engineer,80921,7,Yes
+2447,40,Female,IT,Support Engineer,97927,14,No
+2448,26,Male,Sales,Sales Representative,99156,11,Yes
+2449,52,Male,Finance,Accountant,88580,9,No
+2450,53,Male,Sales,Sales Representative,118380,2,No
+2451,31,Female,IT,Support Engineer,88917,10,No
+2452,53,Male,Operations,Operations Executive,64976,6,Yes
+2453,27,Female,Operations,Operations Executive,94403,13,No
+2454,51,Male,IT,Data Analyst,107774,4,No
+2455,38,Male,Finance,Analyst,108005,14,No
+2456,32,Female,HR,HR Manager,71099,0,Yes
+2457,43,Female,Finance,Senior Accountant,68235,13,Yes
+2458,46,Female,IT,Data Analyst,78237,15,Yes
+2459,50,Male,Operations,Operations Executive,47462,2,No
+2460,37,Male,Operations,Operations Manager,36112,13,No
+2461,50,Female,Finance,Accountant,76352,1,Yes
+2462,23,Female,HR,HR Executive,101563,11,No
+2463,32,Female,Finance,Accountant,90503,15,Yes
+2464,51,Female,Operations,Operations Manager,91163,12,Yes
+2465,49,Female,Sales,Sales Executive,92681,1,Yes
+2466,34,Female,Sales,Sales Executive,118320,9,Yes
+2467,47,Male,Finance,Senior Accountant,86953,7,Yes
+2468,43,Male,Operations,Operations Manager,90842,11,No
+2469,54,Female,Operations,Shift Lead,46347,15,Yes
+2470,22,Female,IT,Data Analyst,43874,4,Yes
+2471,52,Female,IT,Data Analyst,74916,2,Yes
+2472,45,Male,HR,HR Specialist,62152,14,No
+2473,42,Female,Finance,Analyst,71827,5,No
+2474,47,Male,IT,Software Engineer,85969,10,No
+2475,34,Female,HR,HR Manager,87777,13,No
+2476,34,Female,IT,Support Engineer,36730,3,Yes
+2477,39,Female,IT,Software Engineer,56929,0,Yes
+2478,48,Male,IT,Data Analyst,110486,7,No
+2479,25,Male,Sales,Sales Representative,52142,12,Yes
+2480,47,Male,IT,Support Engineer,119879,6,No
+2481,33,Female,Operations,Operations Manager,84608,10,Yes
+2482,55,Male,HR,HR Manager,65123,1,No
+2483,40,Male,IT,Software Engineer,101607,0,Yes
+2484,49,Male,HR,HR Specialist,85093,5,Yes
+2485,38,Male,IT,Support Engineer,62584,13,Yes
+2486,27,Male,IT,Data Analyst,113060,0,No
+2487,27,Female,Finance,Accountant,118229,3,Yes
+2488,25,Male,Sales,Sales Executive,49658,12,Yes
+2489,26,Female,HR,HR Executive,98729,3,No
+2490,36,Male,IT,Support Engineer,44240,6,Yes
+2491,34,Female,HR,HR Specialist,63689,14,Yes
+2492,32,Male,Finance,Accountant,66237,14,No
+2493,31,Male,Sales,Sales Executive,116578,7,No
+2494,38,Male,Sales,Sales Representative,113800,14,No
+2495,53,Female,Sales,Sales Executive,47875,7,No
+2496,23,Female,IT,Support Engineer,87618,14,Yes
+2497,29,Female,Finance,Accountant,58284,0,No
+2498,29,Male,Operations,Operations Executive,92747,12,Yes
+2499,26,Female,Finance,Senior Accountant,54137,0,No
+2500,24,Male,Sales,Sales Executive,79994,1,Yes
